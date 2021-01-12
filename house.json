@@ -1,0 +1,1031 @@
+[
+  {
+    "opensecrets_cid": "N00044245",
+    "name": "Jerry Carl",
+    "district": "AL01",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00045377",
+    "name": "Jay Obernolte",
+    "district": "CA08",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00044298",
+    "name": "Mike Garcia",
+    "district": "CA25",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00045974",
+    "name": "Lauren Boebert",
+    "district": "CO03",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00045978",
+    "name": "Kat Cammack",
+    "district": "FL03",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00046760",
+    "name": "Scott Franklin",
+    "district": "FL15",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00034016",
+    "name": "Byron Donalds",
+    "district": "FL19",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00046394",
+    "name": "Carlos Gimenez",
+    "district": "FL26",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00044701",
+    "name": "Marjorie Greene",
+    "district": "GA14",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00046654",
+    "name": "Andrew Clyde",
+    "district": "GA09",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00045703",
+    "name": "Mary Miller",
+    "district": "IL15",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00030743",
+    "name": "Tracey Mann",
+    "district": "KS01",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00044232",
+    "name": "Jake Laturner",
+    "district": "KS02",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00045730",
+    "name": "Lisa McClain",
+    "district": "MI10",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00045251",
+    "name": "Michelle Fischbach",
+    "district": "MN07",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00046252",
+    "name": "Madison Cawthorn",
+    "district": "NC11",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00044040",
+    "name": "Nicole Malliotakis",
+    "district": "NY11",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00044575",
+    "name": "Chris Jacobs",
+    "district": "NY27",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00044579",
+    "name": "Stephanie Bice",
+    "district": "OK05",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00045773",
+    "name": "Cliff Bentz",
+    "district": "OR02",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00046688",
+    "name": "Diana Harshbarger",
+    "district": "TN01",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00047264",
+    "name": "Patrick Fallon",
+    "district": "TX04",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00045421",
+    "name": "August Pfluger",
+    "district": "TX11",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00046055",
+    "name": "Ronny Jackson",
+    "district": "TX13",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00046067",
+    "name": "Troy Nehls",
+    "district": "TX22",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00045167",
+    "name": "Beth Van Duyne",
+    "district": "TX24",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00045812",
+    "name": "Burgess Owens",
+    "district": "UT04",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00045557",
+    "name": "Bob Good",
+    "district": "VA05",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00045434",
+    "name": "Scott Fitzgerald",
+    "district": "WI05",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00045307",
+    "name": "Tom Tiffany",
+    "district": "WI07",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00035517",
+    "name": "Matt Rosendale",
+    "district": "MT01",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00041295",
+    "name": "Barry Moore",
+    "district": "AL02",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00041454",
+    "name": "Yvette Herrell",
+    "district": "NM02",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00044434",
+    "name": "Tommy Tuberville",
+    "district": "ALS1",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00044027",
+    "name": "Greg Murphy",
+    "district": "NC03",
+    "party": "R",
+    "first_elected": 2019
+  },
+  {
+    "opensecrets_cid": "N00044335",
+    "name": "Dan Bishop",
+    "district": "NC09",
+    "party": "R",
+    "first_elected": 2019
+  },
+  {
+    "opensecrets_cid": "N00044065",
+    "name": "Fred Keller",
+    "district": "PA12",
+    "party": "R",
+    "first_elected": 2019
+  },
+  {
+    "opensecrets_cid": "N00031390",
+    "name": "Jim Hagedorn",
+    "district": "MN01",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00042056",
+    "name": "Debbie Lesko",
+    "district": "AZ08",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00042808",
+    "name": "Greg Steube",
+    "district": "FL17",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00041335",
+    "name": "Russ Fulcher",
+    "district": "ID01",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00041954",
+    "name": "Jim Baird",
+    "district": "IN04",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00041956",
+    "name": "Greg Pence",
+    "district": "IN06",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00042458",
+    "name": "Michael Guest",
+    "district": "MS03",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00042164",
+    "name": "Jeff Van Drew",
+    "district": "NJ02",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00040829",
+    "name": "Kevin Hern",
+    "district": "OK01",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00029416",
+    "name": "Dan Meuser",
+    "district": "PA09",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00043242",
+    "name": "John Joyce",
+    "district": "PA13",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00041871",
+    "name": "Guy Reschenthaler",
+    "district": "PA14",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00042715",
+    "name": "William Timmons",
+    "district": "SC04",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00041594",
+    "name": "Tim Burchett",
+    "district": "TN02",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00041599",
+    "name": "John Rose",
+    "district": "TN06",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00041873",
+    "name": "Mark Green",
+    "district": "TN07",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00042237",
+    "name": "Lance Gooden",
+    "district": "TX05",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00042240",
+    "name": "Ron Wright",
+    "district": "TX06",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00041882",
+    "name": "Michael Cloud",
+    "district": "TX27",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00042296",
+    "name": "Ben Cline",
+    "district": "VA06",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00041542",
+    "name": "Carol Miller",
+    "district": "WV03",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00043290",
+    "name": "Rick Scott",
+    "district": "FLS1",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00041620",
+    "name": "Josh Hawley",
+    "district": "MOS2",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00043298",
+    "name": "Cindy Hyde-Smith",
+    "district": "MSS1",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00040712",
+    "name": "Ron Estes",
+    "district": "KS04",
+    "party": "R",
+    "first_elected": 2017
+  },
+  {
+    "opensecrets_cid": "N00027783",
+    "name": "Ralph Norman",
+    "district": "SC05",
+    "party": "R",
+    "first_elected": 2017
+  },
+  {
+    "opensecrets_cid": "N00025445",
+    "name": "David Kustoff",
+    "district": "TN08",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00039293",
+    "name": "Andy Biggs",
+    "district": "AZ05",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00039503",
+    "name": "Matt Gaetz",
+    "district": "FL01",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00037442",
+    "name": "Neal Dunn",
+    "district": "FL02",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00039777",
+    "name": "John Rutherford",
+    "district": "FL04",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00037269",
+    "name": "Brian Mast",
+    "district": "FL18",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00037185",
+    "name": "Jim Banks",
+    "district": "IN03",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00039953",
+    "name": "Clay Higgins",
+    "district": "LA03",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00039106",
+    "name": "Mike Johnson",
+    "district": "LA04",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00039533",
+    "name": "John Bergman",
+    "district": "MI01",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00039551",
+    "name": "Ted Budd",
+    "district": "NC13",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00038767",
+    "name": "Warren Davidson",
+    "district": "OH08",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00038781",
+    "name": "Lloyd Smucker",
+    "district": "PA11",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00038285",
+    "name": "Jodey Arrington",
+    "district": "TX19",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00037034",
+    "name": "Roger Marshall",
+    "district": "KSS1",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00026823",
+    "name": "John Kennedy",
+    "district": "LAS2",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00037003",
+    "name": "Trent Kelly",
+    "district": "MS01",
+    "party": "R",
+    "first_elected": 2015
+  },
+  {
+    "opensecrets_cid": "N00032243",
+    "name": "Jody Hice",
+    "district": "GA10",
+    "party": "R",
+    "first_elected": 2014
+  },
+  {
+    "opensecrets_cid": "N00033720",
+    "name": "Richard W Allen",
+    "district": "GA12",
+    "party": "R",
+    "first_elected": 2014
+  },
+  {
+    "opensecrets_cid": "N00033527",
+    "name": "David Rouzer",
+    "district": "NC07",
+    "party": "R",
+    "first_elected": 2014
+  },
+  {
+    "opensecrets_cid": "N00035691",
+    "name": "Gary Palmer",
+    "district": "AL06",
+    "party": "R",
+    "first_elected": 2014
+  },
+  {
+    "opensecrets_cid": "N00035346",
+    "name": "Buddy Carter",
+    "district": "GA01",
+    "party": "R",
+    "first_elected": 2014
+  },
+  {
+    "opensecrets_cid": "N00035347",
+    "name": "Barry Loudermilk",
+    "district": "GA11",
+    "party": "R",
+    "first_elected": 2014
+  },
+  {
+    "opensecrets_cid": "N00035420",
+    "name": "Mike Bost",
+    "district": "IL12",
+    "party": "R",
+    "first_elected": 2014
+  },
+  {
+    "opensecrets_cid": "N00036135",
+    "name": "Garret Graves",
+    "district": "LA06",
+    "party": "R",
+    "first_elected": 2014
+  },
+  {
+    "opensecrets_cid": "N00035523",
+    "name": "Elise Stefanik",
+    "district": "NY21",
+    "party": "R",
+    "first_elected": 2014
+  },
+  {
+    "opensecrets_cid": "N00033814",
+    "name": "Alex Mooney",
+    "district": "WV02",
+    "party": "R",
+    "first_elected": 2014
+  },
+  {
+    "opensecrets_cid": "N00005736",
+    "name": "Brian Babin",
+    "district": "TX36",
+    "party": "R",
+    "first_elected": 2014
+  },
+  {
+    "opensecrets_cid": "N00029404",
+    "name": "Lee Zeldin",
+    "district": "NY01",
+    "party": "R",
+    "first_elected": 2014
+  },
+  {
+    "opensecrets_cid": "N00035282",
+    "name": "Jason Smith",
+    "district": "MO08",
+    "party": "R",
+    "first_elected": 2013
+  },
+  {
+    "opensecrets_cid": "N00031226",
+    "name": "Jackie Walorski",
+    "district": "IN02",
+    "party": "R",
+    "first_elected": 2012
+  },
+  {
+    "opensecrets_cid": "N00033987",
+    "name": "Doug LaMalfa",
+    "district": "CA01",
+    "party": "R",
+    "first_elected": 2012
+  },
+  {
+    "opensecrets_cid": "N00033630",
+    "name": "Richard Hudson",
+    "district": "NC08",
+    "party": "R",
+    "first_elected": 2012
+  },
+  {
+    "opensecrets_cid": "N00033410",
+    "name": "Markwayne Mullin",
+    "district": "OK02",
+    "party": "R",
+    "first_elected": 2012
+  },
+  {
+    "opensecrets_cid": "N00034120",
+    "name": "Scott Perry",
+    "district": "PA10",
+    "party": "R",
+    "first_elected": 2012
+  },
+  {
+    "opensecrets_cid": "N00033832",
+    "name": "Tom Rice",
+    "district": "SC07",
+    "party": "R",
+    "first_elected": 2012
+  },
+  {
+    "opensecrets_cid": "N00033539",
+    "name": "Randy Weber",
+    "district": "TX14",
+    "party": "R",
+    "first_elected": 2012
+  },
+  {
+    "opensecrets_cid": "N00030602",
+    "name": "Roger Williams",
+    "district": "TX25",
+    "party": "R",
+    "first_elected": 2012
+  },
+  {
+    "opensecrets_cid": "N00033932",
+    "name": "Chris Stewart",
+    "district": "UT02",
+    "party": "R",
+    "first_elected": 2012
+  },
+  {
+    "opensecrets_cid": "N00033085",
+    "name": "Ted Cruz",
+    "district": "TXS2",
+    "party": "R",
+    "first_elected": 2012
+  },
+  {
+    "opensecrets_cid": "N00030910",
+    "name": "Mo Brooks",
+    "district": "AL05",
+    "party": "R",
+    "first_elected": 2010
+  },
+  {
+    "opensecrets_cid": "N00030770",
+    "name": "Rick Crawford",
+    "district": "AR01",
+    "party": "R",
+    "first_elected": 2010
+  },
+  {
+    "opensecrets_cid": "N00030771",
+    "name": "Paul Gosar",
+    "district": "AZ04",
+    "party": "R",
+    "first_elected": 2010
+  },
+  {
+    "opensecrets_cid": "N00026335",
+    "name": "Daniel Webster",
+    "district": "FL11",
+    "party": "R",
+    "first_elected": 2010
+  },
+  {
+    "opensecrets_cid": "N00031005",
+    "name": "Vicky Hartzler",
+    "district": "MO04",
+    "party": "R",
+    "first_elected": 2010
+  },
+  {
+    "opensecrets_cid": "N00030676",
+    "name": "Billy Long",
+    "district": "MO07",
+    "party": "R",
+    "first_elected": 2010
+  },
+  {
+    "opensecrets_cid": "N00031958",
+    "name": "Steven Palazzo",
+    "district": "MS04",
+    "party": "R",
+    "first_elected": 2010
+  },
+  {
+    "opensecrets_cid": "N00032088",
+    "name": "Bill Johnson",
+    "district": "OH06",
+    "party": "R",
+    "first_elected": 2010
+  },
+  {
+    "opensecrets_cid": "N00031128",
+    "name": "Bob Gibbs",
+    "district": "OH07",
+    "party": "R",
+    "first_elected": 2010
+  },
+  {
+    "opensecrets_cid": "N00031647",
+    "name": "Mike Kelly",
+    "district": "PA16",
+    "party": "R",
+    "first_elected": 2010
+  },
+  {
+    "opensecrets_cid": "N00030752",
+    "name": "Jeff Duncan",
+    "district": "SC03",
+    "party": "R",
+    "first_elected": 2010
+  },
+  {
+    "opensecrets_cid": "N00030815",
+    "name": "Chuck Fleischmann",
+    "district": "TN03",
+    "party": "R",
+    "first_elected": 2010
+  },
+  {
+    "opensecrets_cid": "N00030957",
+    "name": "Scott Desjarlais",
+    "district": "TN04",
+    "party": "R",
+    "first_elected": 2010
+  },
+  {
+    "opensecrets_cid": "N00032029",
+    "name": "Morgan Griffith",
+    "district": "VA09",
+    "party": "R",
+    "first_elected": 2010
+  },
+  {
+    "opensecrets_cid": "N00006460",
+    "name": "David Schweikert",
+    "district": "AZ06",
+    "party": "R",
+    "first_elected": 2010
+  },
+  {
+    "opensecrets_cid": "N00029147",
+    "name": "Andy Harris",
+    "district": "MD01",
+    "party": "R",
+    "first_elected": 2010
+  },
+  {
+    "opensecrets_cid": "N00009660",
+    "name": "Steve Scalise",
+    "district": "LA01",
+    "party": "R",
+    "first_elected": 2008
+  },
+  {
+    "opensecrets_cid": "N00029662",
+    "name": "Bill Posey",
+    "district": "FL08",
+    "party": "R",
+    "first_elected": 2008
+  },
+  {
+    "opensecrets_cid": "N00030026",
+    "name": "Blaine Luetkemeyer",
+    "district": "MO03",
+    "party": "R",
+    "first_elected": 2008
+  },
+  {
+    "opensecrets_cid": "N00029736",
+    "name": "Glenn Thompson",
+    "district": "PA15",
+    "party": "R",
+    "first_elected": 2008
+  },
+  {
+    "opensecrets_cid": "N00029788",
+    "name": "Cynthia Lummis",
+    "district": "WYS2",
+    "party": "R",
+    "first_elected": 2008
+  },
+  {
+    "opensecrets_cid": "N00029459",
+    "name": "Rob Wittman",
+    "district": "VA01",
+    "party": "R",
+    "first_elected": 2007
+  },
+  {
+    "opensecrets_cid": "N00026368",
+    "name": "Tim Walberg",
+    "district": "MI07",
+    "party": "R",
+    "first_elected": 2006
+  },
+  {
+    "opensecrets_cid": "N00028152",
+    "name": "Kevin McCarthy",
+    "district": "CA23",
+    "party": "R",
+    "first_elected": 2006
+  },
+  {
+    "opensecrets_cid": "N00028133",
+    "name": "Douglas L Lamborn",
+    "district": "CO05",
+    "party": "R",
+    "first_elected": 2006
+  },
+  {
+    "opensecrets_cid": "N00027623",
+    "name": "Adrian Smith",
+    "district": "NE03",
+    "party": "R",
+    "first_elected": 2006
+  },
+  {
+    "opensecrets_cid": "N00027894",
+    "name": "Jim Jordan",
+    "district": "OH04",
+    "party": "R",
+    "first_elected": 2006
+  },
+  {
+    "opensecrets_cid": "N00026166",
+    "name": "Virginia Foxx",
+    "district": "NC05",
+    "party": "R",
+    "first_elected": 2004
+  },
+  {
+    "opensecrets_cid": "N00026148",
+    "name": "Louis Bt Jr.",
+    "district": "TX01",
+    "party": "R",
+    "first_elected": 2004
+  },
+  {
+    "opensecrets_cid": "N00024759",
+    "name": "Mike D Rogers",
+    "district": "AL03",
+    "party": "R",
+    "first_elected": 2002
+  },
+  {
+    "opensecrets_cid": "N00025337",
+    "name": "Mario Diaz-Balart",
+    "district": "FL25",
+    "party": "R",
+    "first_elected": 2002
+  },
+  {
+    "opensecrets_cid": "N00025726",
+    "name": "Tom Cole",
+    "district": "OK04",
+    "party": "R",
+    "first_elected": 2002
+  },
+  {
+    "opensecrets_cid": "N00025219",
+    "name": "Michael Burgess",
+    "district": "TX26",
+    "party": "R",
+    "first_elected": 2002
+  },
+  {
+    "opensecrets_cid": "N00025095",
+    "name": "John Carter",
+    "district": "TX31",
+    "party": "R",
+    "first_elected": 2002
+  },
+  {
+    "opensecrets_cid": "N00007248",
+    "name": "Devin Nunes",
+    "district": "CA22",
+    "party": "R",
+    "first_elected": 2002
+  },
+  {
+    "opensecrets_cid": "N00024809",
+    "name": "Joe Wilson",
+    "district": "SC02",
+    "party": "R",
+    "first_elected": 2001
+  },
+  {
+    "opensecrets_cid": "N00007017",
+    "name": "Darrell Issa",
+    "district": "CA50",
+    "party": "R",
+    "first_elected": 2000
+  },
+  {
+    "opensecrets_cid": "N00013323",
+    "name": "Sam Graves",
+    "district": "MO06",
+    "party": "R",
+    "first_elected": 2000
+  },
+  {
+    "opensecrets_cid": "N00005681",
+    "name": "Pete Sessions",
+    "district": "TX17",
+    "party": "R",
+    "first_elected": 1996
+  },
+  {
+    "opensecrets_cid": "N00003028",
+    "name": "Robert Bt",
+    "district": "AL04",
+    "party": "R",
+    "first_elected": 1996
+  },
+  {
+    "opensecrets_cid": "N00005559",
+    "name": "Frank Ds",
+    "district": "OK03",
+    "party": "R",
+    "first_elected": 1994
+  },
+  {
+    "opensecrets_cid": "N00003689",
+    "name": "Steve Chabot",
+    "district": "OH01",
+    "party": "R",
+    "first_elected": 1994
+  },
+  {
+    "opensecrets_cid": "N00007099",
+    "name": "Ken Calvert",
+    "district": "CA42",
+    "party": "R",
+    "first_elected": 1992
+  },
+  {
+    "opensecrets_cid": "N00003473",
+    "name": "Hal Rogers",
+    "district": "KY05",
+    "party": "R",
+    "first_elected": 1980
+  }
+]

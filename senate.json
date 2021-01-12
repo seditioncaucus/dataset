@@ -1,0 +1,58 @@
+[
+  {
+    "opensecrets_cid": "N00044434",
+    "name": "Tommy Tuberville",
+    "state": "AL",
+    "party": "R",
+    "first_elected": 2020
+  },
+  {
+    "opensecrets_cid": "N00043290",
+    "name": "Rick Scott",
+    "state": "FL",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00037034",
+    "name": "Roger Marshall",
+    "state": "KS",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00026823",
+    "name": "John Kennedy",
+    "state": "LA",
+    "party": "R",
+    "first_elected": 2016
+  },
+  {
+    "opensecrets_cid": "N00043298",
+    "name": "Cindy Hyde-Smith",
+    "state": "MS",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00041620",
+    "name": "Josh Hawley",
+    "state": "MO",
+    "party": "R",
+    "first_elected": 2018
+  },
+  {
+    "opensecrets_cid": "N00033085",
+    "name": "Ted Cruz",
+    "state": "TX",
+    "party": "R",
+    "first_elected": 2012
+  },
+  {
+    "opensecrets_cid": "N00029788",
+    "name": "Cynthia Lummis",
+    "state": "WY",
+    "party": "R",
+    "first_elected": 2008
+  }
+]

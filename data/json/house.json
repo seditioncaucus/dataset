@@ -231,13 +231,6 @@
     "first_elected": 2020
   },
   {
-    "opensecrets_cid": "N00044434",
-    "name": "Tommy Tuberville",
-    "district": "ALS1",
-    "party": "R",
-    "first_elected": 2020
-  },
-  {
     "opensecrets_cid": "N00044027",
     "name": "Greg Murphy",
     "district": "NC03",
@@ -406,27 +399,6 @@
     "first_elected": 2018
   },
   {
-    "opensecrets_cid": "N00043290",
-    "name": "Rick Scott",
-    "district": "FLS1",
-    "party": "R",
-    "first_elected": 2018
-  },
-  {
-    "opensecrets_cid": "N00041620",
-    "name": "Josh Hawley",
-    "district": "MOS2",
-    "party": "R",
-    "first_elected": 2018
-  },
-  {
-    "opensecrets_cid": "N00043298",
-    "name": "Cindy Hyde-Smith",
-    "district": "MSS1",
-    "party": "R",
-    "first_elected": 2018
-  },
-  {
     "opensecrets_cid": "N00040712",
     "name": "Ron Estes",
     "district": "KS04",
@@ -535,20 +507,6 @@
     "opensecrets_cid": "N00038285",
     "name": "Jodey Arrington",
     "district": "TX19",
-    "party": "R",
-    "first_elected": 2016
-  },
-  {
-    "opensecrets_cid": "N00037034",
-    "name": "Roger Marshall",
-    "district": "KSS1",
-    "party": "R",
-    "first_elected": 2016
-  },
-  {
-    "opensecrets_cid": "N00026823",
-    "name": "John Kennedy",
-    "district": "LAS2",
     "party": "R",
     "first_elected": 2016
   },
@@ -714,13 +672,6 @@
     "first_elected": 2012
   },
   {
-    "opensecrets_cid": "N00033085",
-    "name": "Ted Cruz",
-    "district": "TXS2",
-    "party": "R",
-    "first_elected": 2012
-  },
-  {
     "opensecrets_cid": "N00030910",
     "name": "Mo Brooks",
     "district": "AL05",
@@ -857,13 +808,6 @@
     "opensecrets_cid": "N00029736",
     "name": "Glenn Thompson",
     "district": "PA15",
-    "party": "R",
-    "first_elected": 2008
-  },
-  {
-    "opensecrets_cid": "N00029788",
-    "name": "Cynthia Lummis",
-    "district": "WYS2",
     "party": "R",
     "first_elected": 2008
   },
